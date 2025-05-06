@@ -1,0 +1,36 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background shape (hidden) -->
+  <rect width="600" height="600" fill="none" />
+  
+  <!-- Logo design -->
+  <g transform="translate(120, 50)">
+    <!-- Tree/village graphic -->
+    <g transform="translate(0, 0)">
+      <!-- Green background shapes -->
+      <path d="M180,300 C100,300 60,260 60,180 C60,100 100,60 180,60 C260,60 300,100 300,180 C300,260 260,300 180,300 Z" fill="#3C9D5D" />
+      
+      <!-- Small green squares -->
+      <rect x="80" y="100" width="30" height="30" fill="#76BE76" />
+      <rect x="130" y="120" width="30" height="30" fill="#76BE76" />
+      <rect x="160" y="160" width="30" height="30" fill="#76BE76" />
+      <rect x="110" y="180" width="30" height="30" fill="#76BE76" />
+      <rect x="190" y="130" width="30" height="30" fill="#76BE76" />
+      
+      <!-- Upward arrow -->
+      <path d="M240,180 L300,100 L360,180 L330,180 L330,240 L270,240 L270,180 Z" fill="#3C9D5D" />
+      
+      <!-- House -->
+      <path d="M180,300 L240,220 L300,300 Z" fill="white" />
+      <rect x="215" y="270" width="50" height="60" fill="white" />
+      <rect x="225" y="280" width="30" height="50" fill="#005440" />
+      
+      <!-- Leaf shape -->
+      <path d="M250,350 C180,320 150,250 180,180 C250,250 320,180 350,250 C320,320 250,350 250,350 Z" fill="#005440" />
+    </g>
+    
+    <!-- GaonUp text -->
+    <g transform="translate(0, 430)">
+      <text font-family="Arial, sans-serif" font-weight="bold" font-size="80" fill="#0A3240">GaonUp</text>
+    </g>
+  </g>
+</svg>
